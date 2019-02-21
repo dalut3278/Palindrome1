@@ -1,5 +1,5 @@
 /**
-*David Lutelmowski
+* David Lutelmowski
 * 2/21/19
 * Palindrome1 Program
 */
