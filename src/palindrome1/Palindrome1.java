@@ -1,7 +1,7 @@
 /**
 *David Lutelmowski
 * 2/21/19
-* Palindrome2 Program
+* Palindrome1 Program
 */
 
 package palindrome1;
